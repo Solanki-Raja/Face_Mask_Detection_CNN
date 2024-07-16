@@ -5,6 +5,9 @@
 ## Overview
 
 This project aims to develop a robust face mask detection system using Convolutional Neural Networks (CNNs) to identify whether a person is wearing a face mask or not. The project is implemented using TensorFlow and Keras, leveraging a dataset of labeled images to train the model.
+<div style="text-align: center; margin: 10px;">
+  <img src="Images/Screenshot 2024-07-15 213049.png" style="display: block; margin: 0 auto;"/>
+<div/>
 
 ## Table of Contents
 
