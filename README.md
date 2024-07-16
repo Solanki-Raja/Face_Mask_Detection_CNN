@@ -1,6 +1,6 @@
 # Face Mask Detection
 
-![Face Mask Detection](https://github.com/Solanki-Raja/mask_detect.github.io/blob/main/Face%20Mask.jpg)
+![Face Mask Detection](/Face_Mask.jpg)
 
 ## Overview
 
