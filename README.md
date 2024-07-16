@@ -102,7 +102,7 @@ If you have any questions or suggestions, feel free to reach out to us:
     <p><a href="https://www.linkedin.com/in/solankiraja/" target="_blank">Raja Solanki</a></p>
   </div>
   <div style="text-align: center; margin: 10px;">
-      <img src="Images/james_hopham.jpeg" alt="James Hopham" width="200" style="display: block; margin: 0 auto;"/>
+      <img src="Images/1706388570200.jpeg" alt="James Hopham" width="200" style="display: block; margin: 0 auto;"/>
     <p><a href="https://www.linkedin.com/in/james-hopham-2440352a5/" target="_blank">James Hopham</a></p>
   </div>
 </div>
