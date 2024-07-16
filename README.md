@@ -95,20 +95,15 @@ The model achieved an accuracy of 94% on the validation set, demonstrating its a
 If you have any questions or suggestions, feel free to reach out to us:
 
 **Connect with us on LinkedIn**
-- [Raja Solanki]
-
-  # Face Mask Detection Project
-
-## Team Members
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="text-align: center; margin: 10px;">
-    <img src="images/james_hopham.jpg" alt="James Hopham" width="200" style="display: block; margin: 0 auto;"/>
-    <p><a href="https://www.linkedin.com/in/james-hopham-2440352a5/" target="_blank">James Hopham</a></p>
+  <img src="Images/raja_solanki.JPEG" alt="Raja Solanki" width="200" style="display: block; margin: 0 auto;"/>
+    <p><a href="https://www.linkedin.com/in/solankiraja/" target="_blank">Raja Solanki</a></p>
   </div>
   <div style="text-align: center; margin: 10px;">
-    <img src="images/raja_solanki.jpg" alt="Raja Solanki" width="200" style="display: block; margin: 0 auto;"/>
-    <p><a href="https://www.linkedin.com/in/solankiraja/" target="_blank">Raja Solanki</a></p>
+      <img src="Images/james_hopham.jpeg" alt="James Hopham" width="200" style="display: block; margin: 0 auto;"/>
+    <p><a href="https://www.linkedin.com/in/james-hopham-2440352a5/" target="_blank">James Hopham</a></p>
   </div>
 </div>
 
