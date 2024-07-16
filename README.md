@@ -16,6 +16,7 @@ This project aims to develop a robust face mask detection system using Convoluti
 - [Dataset](#dataset)
 - [Training](#training)
 - [Results](#results)
+- [Project Paper](#paper)
 - [Contact](#contact)
 
 ## Introduction
@@ -91,6 +92,11 @@ history = model.fit(
 ## Results
 
 The model achieved an accuracy of 94% on the validation set, demonstrating its ability to effectively distinguish between images of people with and without face masks.
+
+## Paper
+
+Here is a link to our paper covering a holistic overview on the background, methodology, and results of the project:
+https://github.com/Solanki-Raja/Face_Mask_Detection_CNN/blob/main/Real-Time%20Face%20Mask%20Detection.pdf
 
 ## Contact
 
