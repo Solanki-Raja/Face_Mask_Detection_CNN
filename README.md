@@ -98,7 +98,7 @@ If you have any questions or suggestions, feel free to reach out to us:
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="text-align: center; margin: 10px;">
-  <img src="Images/raja_solanki.JPEG" alt="Raja Solanki" width="200" style="display: block; margin: 0 auto;"/>
+  <img src="Images/raja_solanki.jpeg" alt="Raja Solanki" width="200" style="display: block; margin: 0 auto;"/>
     <p><a href="https://www.linkedin.com/in/solankiraja/" target="_blank">Raja Solanki</a></p>
   </div>
   <div style="text-align: center; margin: 10px;">
