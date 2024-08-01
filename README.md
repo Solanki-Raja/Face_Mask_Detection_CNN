@@ -98,6 +98,8 @@ The model achieved an accuracy of 94% on the validation set, demonstrating its a
 Here is a link to our paper covering a holistic overview on the background, methodology, and results of the project:
 https://github.com/Solanki-Raja/Face_Mask_Detection_CNN/blob/main/Real-Time%20Face%20Mask%20Detection.pdf
 
+Explore our comprehensive paper detailing the background, methodology, and results of the Real-Time Face Mask Detection project here[https://github.com/Solanki-Raja/Face_Mask_Detection_CNN/blob/main/Real-Time%20Face%20Mask%20Detection.pdf].
+
 ## Contact
 
 If you have any questions or suggestions, feel free to reach out to us:
